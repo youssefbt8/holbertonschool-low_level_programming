@@ -13,3 +13,4 @@ int main(void)
 	printf("Size of char: %d\n",sizeof(char));
 	printf("Size of double: %d\n",sizeof(double));
     return (0);
+}
