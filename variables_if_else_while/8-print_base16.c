@@ -8,6 +8,7 @@
 int main(void)
 {
 	int number = 0;
+
 	while (number < 16)
 	{
 	if (number < 10)
