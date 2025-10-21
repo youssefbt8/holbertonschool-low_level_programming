@@ -16,5 +16,6 @@ int main(void)
 	else
 	putchar(number + 'a' - 10);
 	}
+	putchar('\n');
 	return (0);
 }
