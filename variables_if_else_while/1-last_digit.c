@@ -28,4 +28,4 @@ int main(void)
 	printf("and is less than 0 and not 6\n");
 	}
 	return (0);
-
+}
