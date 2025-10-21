@@ -9,6 +9,7 @@
 int main(void)
 {
         char ch = 'a';
+	char CH = 'A';
 
         while (ch <= 'z')
         {
@@ -16,15 +17,13 @@ int main(void)
         ch++;
         }
 
-	char CH = 'A';
-
 	while (ch <= 'Z')
 	{
 	putchar(CH);
 	CH++;
 	}
 	
-	putchar('\n')
+	putchar('\n');
 	
 	return (0);
 }
