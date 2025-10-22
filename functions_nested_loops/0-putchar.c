@@ -1,4 +1,4 @@
-int _putchar(char c);  
+int _putchar(char c);
 
 /**
  * main - prints "_putchar" followed by a new line
