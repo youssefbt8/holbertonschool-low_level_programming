@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_sign - check the code to tell if n is positive or n is zero or negative.
- *@n:the number to be checked by the code. 
+ * print_sign - check the code tell if n is + or is 0 or -.
+ *@n:the number to be checked by the code.
  * Return:1 if n is greater than 0,return 0 if it is 0,and -1 if else.
  */
 int print_sign(int n)
