@@ -1,6 +1,6 @@
 #include "main.h"
-/*
- * add.c - print the result of adding two integers
+/**
+ * add - print the result of adding two integers
  * @a:number to give first
  * @b:number to give second
  * return:always 0
