@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * print_line - draws a straight line in the terminal
+ *@n : numbers of straight line 
  *
- *
- *
+ *Return:void
  */
 void print_line(int n)
 {
@@ -14,10 +14,9 @@ void print_line(int n)
 	_putchar('\n');
 	return;
 	}
-	for (i = 0; i < n ;i++)
+	for (i = 0; i < n ; i++)
 	{
 	_putchar('_');
 	}
 	_putchar('\n');
-}
-	
+}	
